@@ -1,0 +1,13 @@
+{
+  "name": "substrate-cli",
+  "version": "0.1.0",
+  "repository": "git@github.com:Akagi201/substrate-cli.git",
+  "author": "Akagi201 <akagi201@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@polkadot/api": "^7.1.2-6"
+  }
+}
